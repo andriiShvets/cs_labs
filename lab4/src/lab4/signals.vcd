@@ -1,0 +1,362 @@
+$date
+     May 10, 2022       23:10:20
+$end
+
+$version
+ SystemC 2.3.3-Accellera --- Feb 21 2022 19:14:31
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  CLK       $end
+$var real    1  aaaab  X       $end
+$var real    1  aaaac  Y       $end
+$var real    1  aaaad  O1       $end
+$var real    1  aaaae  O2       $end
+$var real    1  aaaaf  R1       $end
+$var real    1  aaaag  R2       $end
+$var real    1  aaaah  Sum       $end
+$var real    1  aaaai  Diff       $end
+$var real    1  aaaaj  Prod       $end
+$var real    1  aaaak  Quot       $end
+$var real    1  aaaal  Pow       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+r27 aaaab
+r148 aaaac
+r1 aaaad
+r0 aaaae
+r0 aaaaf
+r1 aaaag
+r0 aaaah
+r0 aaaai
+r0 aaaaj
+r0 aaaak
+r0 aaaal
+$end
+
+#10
+1aaaaa
+r27 aaaad
+r175 aaaae
+r1 aaaaf
+r0 aaaag
+r1 aaaah
+r-1 aaaai
+
+#20
+0aaaaa
+
+#30
+1aaaaa
+r180 aaaaf
+r1 aaaai
+r-1 aaaaj
+r-1 aaaak
+
+#40
+0aaaaa
+
+#50
+1aaaaa
+r180 aaaah
+r180 aaaai
+r1 aaaaj
+r1 aaaak
+
+#60
+0aaaaa
+
+#70
+1aaaaa
+r32400 aaaaj
+r1 aaaal
+
+#80
+0aaaaa
+
+#90
+1aaaaa
+r32400 aaaal
+
+#100
+0aaaaa
+
+#110
+1aaaaa
+
+#120
+0aaaaa
+
+#130
+1aaaaa
+
+#140
+0aaaaa
+
+#150
+1aaaaa
+
+#160
+0aaaaa
+
+#170
+1aaaaa
+
+#180
+0aaaaa
+
+#190
+1aaaaa
+
+#200
+0aaaaa
+
+#210
+1aaaaa
+
+#220
+0aaaaa
+
+#230
+1aaaaa
+
+#240
+0aaaaa
+
+#250
+1aaaaa
+
+#260
+0aaaaa
+
+#270
+1aaaaa
+
+#280
+0aaaaa
+
+#290
+1aaaaa
+
+#300
+0aaaaa
+
+#310
+1aaaaa
+
+#320
+0aaaaa
+
+#330
+1aaaaa
+
+#340
+0aaaaa
+
+#350
+1aaaaa
+
+#360
+0aaaaa
+
+#370
+1aaaaa
+
+#380
+0aaaaa
+
+#390
+1aaaaa
+
+#400
+0aaaaa
+
+#410
+1aaaaa
+
+#420
+0aaaaa
+
+#430
+1aaaaa
+
+#440
+0aaaaa
+
+#450
+1aaaaa
+
+#460
+0aaaaa
+
+#470
+1aaaaa
+
+#480
+0aaaaa
+
+#490
+1aaaaa
+
+#500
+0aaaaa
+
+#510
+1aaaaa
+
+#520
+0aaaaa
+
+#530
+1aaaaa
+
+#540
+0aaaaa
+
+#550
+1aaaaa
+
+#560
+0aaaaa
+
+#570
+1aaaaa
+
+#580
+0aaaaa
+
+#590
+1aaaaa
+
+#600
+0aaaaa
+
+#610
+1aaaaa
+
+#620
+0aaaaa
+
+#630
+1aaaaa
+
+#640
+0aaaaa
+
+#650
+1aaaaa
+
+#660
+0aaaaa
+
+#670
+1aaaaa
+
+#680
+0aaaaa
+
+#690
+1aaaaa
+
+#700
+0aaaaa
+
+#710
+1aaaaa
+
+#720
+0aaaaa
+
+#730
+1aaaaa
+
+#740
+0aaaaa
+
+#750
+1aaaaa
+
+#760
+0aaaaa
+
+#770
+1aaaaa
+
+#780
+0aaaaa
+
+#790
+1aaaaa
+
+#800
+0aaaaa
+
+#810
+1aaaaa
+
+#820
+0aaaaa
+
+#830
+1aaaaa
+
+#840
+0aaaaa
+
+#850
+1aaaaa
+
+#860
+0aaaaa
+
+#870
+1aaaaa
+
+#880
+0aaaaa
+
+#890
+1aaaaa
+
+#900
+0aaaaa
+
+#910
+1aaaaa
+
+#920
+0aaaaa
+
+#930
+1aaaaa
+
+#940
+0aaaaa
+
+#950
+1aaaaa
+
+#960
+0aaaaa
+
+#970
+1aaaaa
+
+#980
+0aaaaa
+
+#990
+1aaaaa
+
+#1000
