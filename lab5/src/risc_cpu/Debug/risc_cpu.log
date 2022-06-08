@@ -1,0 +1,25 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  pic.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  paging.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  mmxu.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  icache.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  floating.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  fetch.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  exec.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  decode.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  dcache.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  bios.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Создание кода...
+  risc_cpu.vcxproj -> D:\anrii\KI38\3.1\ks\prog\systemc-2.3.3\examples\sysc\risc_cpu\Debug\risc_cpu.exe
